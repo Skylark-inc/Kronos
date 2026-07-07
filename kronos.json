@@ -1,0 +1,14 @@
+{
+  "albums": [
+    {
+      "name": "Kronos",
+      "url": "PASTE_KRONOS_URL_HERE",
+      "enabled": true
+    },
+    {
+      "name": "Kronos 2",
+      "url": "PASTE_KRONOS_2_URL_HERE",
+      "enabled": true
+    }
+  ]
+}
